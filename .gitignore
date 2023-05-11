@@ -332,3 +332,5 @@ fabric.properties
 
 # xournal
 *.xopp
+
+*.png
